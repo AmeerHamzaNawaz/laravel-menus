@@ -21,9 +21,9 @@
   ],
   "require": {
     "php": ">=7.3",
-    "illuminate/support": "^8.0|^9.*|^10.*",
-    "illuminate/config": "^8.0|^10.*",
-    "illuminate/view": "^8.0|^10.*",
+    "illuminate/support": "^8.0|^9.21|^10.0",
+    "illuminate/config": "^8.0|^10.21",
+    "illuminate/view": "^8.0|^10.21",
     "laravelcollective/html": "6.2.*"
   },
   "require-dev": {
